@@ -1,4 +1,6 @@
 # Movie Review Portal
+### Project Timeline Note: 
+This project was originally developed between August 2023 and December 2023. However, it has been recently uploaded to GitHub for sharing and documentation purposes. While the commit history may not reflect the original development timeline, feel free to explore the project and reach out with any questions or feedback.
 ## Project Description
 This is an application used to display movie ratings and reviews for movies listed. Admin can add movies to the portal. The movies can have ratings already and for a few movies, there won’t be any reviews and the users can start adding reviews and ratings. Average ratings and top reviews are displayed for movies. A movie present in the database can be searched and the subsequent ratings and reviews are displayed. This application is helpful for movie buffs to understand the ratings and give reviews of the movies. Having such a kind of portal which is driven by ratings and reviews given by users rather than only a few selected critics would make the reviews and ratings transparent and not influenced by anyone.
 ## Dataset Description
